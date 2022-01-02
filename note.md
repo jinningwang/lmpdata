@@ -7,3 +7,5 @@ Download the LMP from PJM.
 Integrating LMP into the data set.
 
 PJM winter peak: 1/31/19
+
+NYISO summer peak load: 7/9/2020
